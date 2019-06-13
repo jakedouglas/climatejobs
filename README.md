@@ -26,4 +26,5 @@ Please submit a pull request to make additions or changes.
 | [Station A](https://stationa.com/company#careers) | Provides clean energy developers and energy users the insight they need to take any building to zero carbon emissions. |
 | [stem](https://stem.silkroad.com/) | Energy storage and analytics |
 | [Tesla](https://www.tesla.com/careers) | Electric vehicles manufacturer |
+| [UtilityAPI](https://utilityapi.com/jobs) | API for utility billing data |
 | [Wunder Capital](https://www.wundercapital.com/hustle) | Commercial solar financing/investment platform |
