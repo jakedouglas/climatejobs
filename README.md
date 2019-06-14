@@ -19,12 +19,17 @@ Please submit a pull request to make additions or changes.
 | [EnergySage](https://www.energysage.com/about/careers) | Get competing solar quotes online |
 | [Kairos Aerospace](https://jobs.lever.co/kairosaerospace) | Methane leak detection |
 | [leap](https://www.leap.ac/careers/) | Marketplace for energy demand response |
+| [Octopus Energy](https://octopus.energy/careers/) | Renewable energy supplier |
+| [OhmConnect](https://www.ohmconnect.com/about-us/jobs) | Consumer demand response |
+| [Packetized Energy](https://packetizedenergy.com/careers/) | Building virtual batteries from connected things |
 | [PVComplete](https://pvcomplete.com/careers/) | Solar sales and design software |
 | [Recargo](https://recargo.com/careers.html) | EV charging tools and infrastructure |
 | [Recharge.ac](https://www.recharge.ac/careers/) | In-vehicle payments focused on improving the EV charging experience |
 | [Sapient Industries](https://www.sapient.industries/careers/) | Plug Load Management for Businesses |
+| [Sense](https://sense.com/careers/) | Home energy use monitoring |
 | [Station A](https://stationa.com/company#careers) | Provides clean energy developers and energy users the insight they need to take any building to zero carbon emissions. |
 | [stem](https://stem.silkroad.com/) | Energy storage and analytics |
 | [Tesla](https://www.tesla.com/careers) | Electric vehicles manufacturer |
 | [UtilityAPI](https://utilityapi.com/jobs) | API for utility billing data |
+| [WattTime](https://watttime.recruiterbox.com/) | Consume electricity when emissions are lowest |
 | [Wunder Capital](https://www.wundercapital.com/hustle) | Commercial solar financing/investment platform |
