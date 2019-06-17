@@ -17,6 +17,7 @@ Please submit a pull request to make additions or changes.
 | [DroneSeed](https://www.droneseed.co/jobs/) | DroneSeed works in post-fire environments to plant native trees and vegetation using drone swarms and spray to protect them. |
 | [Electrify America](https://vwgoa.taleo.net/careersection/volkswagen_of_america/jobsearch.ftl?lang=en) | EV charging network |
 | [EnergySage](https://www.energysage.com/about/careers) | Get competing solar quotes online |
+| [Ensemble Energy](https://www.ensemble.energy/company/careers.html) | Energy analytics and prediction |
 | [EVgo](https://jobs.lever.co/evgo) | EV fast charging network |
 | [Kairos Aerospace](https://jobs.lever.co/kairosaerospace) | Methane leak detection |
 | [leap](https://www.leap.ac/careers/) | Marketplace for energy demand response |
