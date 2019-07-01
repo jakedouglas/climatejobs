@@ -9,7 +9,7 @@ Please submit a pull request to make additions or changes.
 | [Advanced Microgrid Solutions](http://www.advmicrogrid.com/careers.html) | Advanced Intelligence for Energy Markets |
 | [Arcadia Power](https://www.arcadiapower.com/careers/) | Clean Energy For Renters & Homeowners |
 | [Aurora Solar](https://www.aurorasolar.com/careers) | Solar sales and design software |
-| [Camus Energy](https://camus.energy/) | Camus is a budding pioneer in transactive energy and energy grid transformation. |
+| [Camus Energy](https://camus.energy/) | We are building an orchestration platform for the renewable, distributed grid. By providing insight into the usage and behavior of the grid in real time, we can provide the intelligence required to balance locally among distributed energy resources, to support system stability and minimize costs as grids transition to zero carbon. |
 | [Carbon Lighthouse](https://www.carbonlighthouse.com/about-us/careers/) | Building energy efficiency/optimization |
 | [Chargepoint](https://www.chargepoint.com/about/opportunities/) | EV charging network |
 | [CoPower](https://copower.me/en/company/#careers) | Green investment platform |
