@@ -17,7 +17,7 @@ Please submit a pull request to make additions or changes.
 | [DroneSeed](https://www.droneseed.co/jobs/) | DroneSeed works in post-fire environments to plant native trees and vegetation using drone swarms and spray to protect them. |
 | [Electrify America](https://vwgoa.taleo.net/careersection/volkswagen_of_america/jobsearch.ftl?lang=en) | EV charging network |
 | [EnergySage](https://www.energysage.com/about/careers) | Get competing solar quotes online |
-| [Ensemble Energy](https://www.ensemble.energy/company/careers.html) | Energy analytics and prediction |
+| [Ensemble Energy](https://www.ensemble.energy/careers/) | Energy analytics and prediction |
 | [EVgo](https://jobs.lever.co/evgo) | EV fast charging network |
 | [Kairos Aerospace](https://jobs.lever.co/kairosaerospace) | Methane leak detection |
 | [leap](https://www.leap.ac/careers/) | Marketplace for energy demand response |
@@ -33,6 +33,7 @@ Please submit a pull request to make additions or changes.
 | [stem](https://stem.silkroad.com/) | Energy storage and analytics |
 | [Tesla](https://www.tesla.com/careers) | Electric vehicles manufacturer |
 | [UtilityAPI](https://utilityapi.com/jobs) | API for utility billing data |
+| [Voltaiq](https://www.voltaiq.com/company/careers/) | Battery intelligence platform |
 | [WattTime](https://watttime.recruiterbox.com/) | Consume electricity when emissions are lowest |
 | [Weave Grid](https://www.weavegrid.com/lead-software-engineer) | Works with utilities and electric vehicle (EV) owners to enable and accelerate the electrification of transportation. |
 | [Wunder Capital](https://www.wundercapital.com/hustle) | Commercial solar financing/investment platform |
