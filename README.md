@@ -9,7 +9,7 @@ Please submit a pull request to make additions or changes.
 | [Advanced Microgrid Solutions](http://www.advmicrogrid.com/careers.html) | Advanced Intelligence for Energy Markets |
 | [Arcadia Power](https://www.arcadiapower.com/careers/) | Clean Energy For Renters & Homeowners |
 | [Aurora Solar](https://www.aurorasolar.com/careers) | Solar sales and design software |
-| [Autogrid](https://www.auto-grid.com/) | Smartgrid with IoT |
+| [Autogrid](https://www.auto-grid.com/careers/) | Smartgrid with IoT |
 | [Camus Energy](https://camus.energy/) | We are building an orchestration platform for the renewable, distributed grid. By providing insight into the usage and behavior of the grid in real time, we can provide the intelligence required to balance locally among distributed energy resources, to support system stability and minimize costs as grids transition to zero carbon. |
 | [Carbon Lighthouse](https://www.carbonlighthouse.com/about-us/careers/) | Building energy efficiency/optimization |
 | [Chargepoint](https://www.chargepoint.com/about/opportunities/) | EV charging network |
@@ -20,6 +20,7 @@ Please submit a pull request to make additions or changes.
 | [EnergySage](https://www.energysage.com/about/careers) | Get competing solar quotes online |
 | [Ensemble Energy](https://www.ensemble.energy/careers/) | Energy analytics and prediction |
 | [EVgo](https://jobs.lever.co/evgo) | EV fast charging network |
+| [Geli](https://geli.net/careers/) | Geli provides software and business solutions to design, automate, and manage energy storage systems |
 | [Kairos Aerospace](https://jobs.lever.co/kairosaerospace) | Methane leak detection |
 | [leap](https://www.leap.ac/careers/) | Marketplace for energy demand response |
 | [Octopus Energy](https://octopus.energy/careers/) | Renewable energy supplier |
