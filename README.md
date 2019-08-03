@@ -7,7 +7,6 @@ Please submit a pull request to make additions or changes.
 | Company       | Description   |
 | ------------- | ------------- |
 | [Advanced Microgrid Solutions](http://www.advmicrogrid.com/careers.html) | Advanced Intelligence for Energy Markets |
-| [Amperon](https://amperon.co/)| Amperon provides real time load forecasts and analytics based on high-resolution smart meter data for energy suppliers and utilities. |
 | [Arcadia Power](https://www.arcadiapower.com/careers/) | Clean Energy For Renters & Homeowners |
 | [Aurora Solar](https://www.aurorasolar.com/careers) | Solar sales and design software |
 | [Autogrid](https://www.auto-grid.com/careers/) | Smartgrid with IoT |
