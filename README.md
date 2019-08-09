@@ -33,6 +33,7 @@ Please submit a pull request to make additions or changes.
 | [Sapient Industries](https://www.sapient.industries/careers/) | Plug Load Management for Businesses |
 | [Sense](https://sense.com/careers/) | Home energy use monitoring |
 | [Station A](https://stationa.com/company#careers) | Provides clean energy developers and energy users the insight they need to take any building to zero carbon emissions. |
+| [SpanIO](https://www.span.io/) | Intelligent hardware & software for the distributed grid |
 | [stem](https://stem.silkroad.com/) | Energy storage and analytics |
 | [Tesla](https://www.tesla.com/careers) | Electric vehicles manufacturer |
 | [UtilityAPI](https://utilityapi.com/jobs) | API for utility billing data |
