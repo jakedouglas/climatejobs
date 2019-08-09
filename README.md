@@ -26,6 +26,7 @@ Please submit a pull request to make additions or changes.
 | [Octopus Energy](https://octopus.energy/careers/) | Renewable energy supplier |
 | [OhmConnect](https://www.ohmconnect.com/about-us/jobs) | Consumer demand response |
 | [Packetized Energy](https://packetizedenergy.com/careers/) | Building virtual batteries from connected things |
+| [Pachama](https://angel.co/company/pachama/jobs) | Using technology to verify and monitor forest carbon offsets |
 | [PVComplete](https://pvcomplete.com/careers/) | Solar sales and design software |
 | [Recargo](https://recargo.com/careers.html) | EV charging tools and infrastructure |
 | [Recharge.ac](https://www.recharge.ac/careers/) | In-vehicle payments focused on improving the EV charging experience |
