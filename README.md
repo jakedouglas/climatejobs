@@ -23,6 +23,7 @@ Please submit a pull request to make additions or changes.
 | [Geli](https://geli.net/careers/) | Geli provides software and business solutions to design, automate, and manage energy storage systems |
 | [Kairos Aerospace](https://jobs.lever.co/kairosaerospace) | Methane leak detection |
 | [leap](https://www.leap.ac/careers/) | Marketplace for energy demand response |
+| [Nautilus Labs](https://nautiluslabs.co/job-openings) | Nautilus provides ship owners and operators with predictive analytics to reduce fuel consumption, optimize fleet performance, and maximize ROI. |
 | [Octopus Energy](https://octopus.energy/careers/) | Renewable energy supplier |
 | [OhmConnect](https://www.ohmconnect.com/about-us/jobs) | Consumer demand response |
 | [Packetized Energy](https://packetizedenergy.com/careers/) | Building virtual batteries from connected things |
