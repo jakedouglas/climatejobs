@@ -33,6 +33,7 @@ Please submit a pull request to make additions or changes.
 | [Recharge.ac](https://www.recharge.ac/careers/) | In-vehicle payments focused on improving the EV charging experience |
 | [Sapient Industries](https://www.sapient.industries/careers/) | Plug Load Management for Businesses |
 | [Sense](https://sense.com/careers/) | Home energy use monitoring |
+| [Sidewalk Labs](https://boards.greenhouse.io/sidewalklabs) | Sidewalk Labs is reimagining cities to improve quality of life. |
 | [Station A](https://stationa.com/company#careers) | Provides clean energy developers and energy users the insight they need to take any building to zero carbon emissions. |
 | [SpanIO](https://www.span.io/) | Intelligent hardware & software for the distributed grid |
 | [stem](https://stem.silkroad.com/) | Energy storage and analytics |
