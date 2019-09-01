@@ -15,6 +15,7 @@ Please submit a pull request to make additions or changes.
 | [Chargepoint](https://www.chargepoint.com/about/opportunities/) | EV charging network |
 | [CoPower](https://copower.me/en/company/#careers) | Green investment platform |
 | [Dandelion Energy](https://dandelionenergy.com/jobs) | Home geothermal heating and cooling |
+| [Descartes Labs](https://descarteslabs.com/open-jobs.html) | A data refinery, built to understand our planet. |
 | [DroneSeed](https://www.droneseed.co/jobs/) | DroneSeed works in post-fire environments to plant native trees and vegetation using drone swarms and spray to protect them. |
 | [Electrify America](https://vwgoa.taleo.net/careersection/volkswagen_of_america/jobsearch.ftl?lang=en) | EV charging network |
 | [EnergySage](https://www.energysage.com/about/careers) | Get competing solar quotes online |
