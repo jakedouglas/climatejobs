@@ -41,6 +41,7 @@ Please submit a pull request to make additions or changes.
 | [Tesla](https://www.tesla.com/careers) | Electric vehicles manufacturer |
 | [UtilityAPI](https://utilityapi.com/jobs) | API for utility billing data |
 | [Voltaiq](https://www.voltaiq.com/company/careers/) | Battery intelligence platform |
+| [Voltus](https://www.voltus.co/join-us/) | Commercial & industrial demand-response |
 | [WattTime](https://watttime.recruiterbox.com/) | Consume electricity when emissions are lowest |
 | [Weave Grid](https://www.weavegrid.com/lead-software-engineer) | Works with utilities and electric vehicle (EV) owners to enable and accelerate the electrification of transportation. |
 | [Wunder Capital](https://www.wundercapital.com/hustle) | Commercial solar financing/investment platform |
