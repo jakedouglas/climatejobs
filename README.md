@@ -1,5 +1,9 @@
 # Climate jobs for software engineers
 
+***NOTE: This is unmaintained and there are very active job boards now. See [Climatebase](https://climatebase.org/), [Climate People](https://www.climatepeople.com/), etc.***
+
+* * *
+
 This is a list of companies who employ and may be hiring software engineers in areas that have the potential to help mitigate climate change.
 
 Please submit a pull request to make additions or changes.
