@@ -1,6 +1,10 @@
 # Climate jobs for software engineers
 
-***NOTE: This is unmaintained and there are very active job boards now. See [Climatebase](https://climatebase.org/), [Climate People](https://www.climatepeople.com/), etc.***
+***NOTE: This is unmaintained and there are very active job boards now:***
+
+For general job boards for all roles in climate, see [Climatebase](https://climatebase.org/), [Climate People](https://www.climatepeople.com/), [Climate Tech Careers](https://www.climatetechcareers.com/#jobboards) - which is a aggregator of job boards.
+
+For climate job boards specific to software engineers, see [ClimateTechList](https://www.climatetechlist.com/), and the `#a-software-engineer` / `#jobs-software-engineering` channels within [My Climate Journey](https://www.mcjcollective.com/) and [Work on Climate](https://workonclimate.org/) slack communities, respectively.
 
 * * *
 
